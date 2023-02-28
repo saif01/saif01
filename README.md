@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm MD. Syful Islam</h1>
 <h3 align="center">A passionate Software Engineer from Bangladesh</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shagor-ahmed&label=Profile%20views&color=0e75b6&style=flat" alt="shagor-ahmed" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=saif01&label=Profile%20views&color=0e75b6&style=flat" alt="Syful-Islam" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shagor-ahmed" alt="shagor-ahmed" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saif01" alt="Syful-Islam" /></a> </p>
 
 - 🔭 Programming Language: **PHP** **JavaScript** **Python** **C++** 
 
@@ -19,7 +19,7 @@
 
 - 💬 Ask me about **Software Development**
 
-- 📫 How to reach me **syful.cse.bd@gmail.com** **syful.islam92@yahoo.com**
+- 📫 How to reach me **syful.cse.bd@gmail.com** or **syful.islam92@yahoo.com**
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/drive/folders/1dGnyDqNJ9mhcQ1eE7wQEWItnTbcMEJZ-?usp=share_link)
 
@@ -28,8 +28,8 @@
 <p align="left">
 <a href="https://codepen.io/saif01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="Syful-Islam" height="30" width="40" /></a>
 <a href="https://dev.to/saif01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="Syful-Islam" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/cse-saif01/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sb.shagor" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/12693747/md-syful-islam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="shagor" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/cse-saif01/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Syful-Islam" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/12693747/md-syful-islam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Syful-Islam" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
